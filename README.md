@@ -1,2 +1,0 @@
-# vue-echarts
-# vue-echarts
